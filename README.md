@@ -1,10 +1,8 @@
 # FontList
-A selected list of free, libre an open source fonts.
-
-See [http://typotheque.instertices.io](http://typotheque.instertices.io).
+A selected list of free, libre an open source fonts for[ http://typotheque.instertices.io](http://typotheque.instertices.io).
 
 ```
-├── aileron
+├── aileron ✔
 ├── Archivo
 ├── Autopia-TTF-v1.1
 ├── Avara
