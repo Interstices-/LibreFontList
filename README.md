@@ -3,37 +3,36 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 
 ```
 ├── aileron ✔
-├── Archivo
-├── Autopia-TTF-v1.1
-├── Avara
+├── Archivo ✔
+├── Autopia-TTF-v1.1 ✔
+├── Avara ✔
 ├── Averia
-├── bitstream-vera-1.10
+├── bitstream-vera-1.10 ✔
 ├── bizmeud
 ├── BreeSerif
 ├── Breite-master
 ├── cabin font v1.5
 ├── Candal
-├── CareerFont
+├── CareerFont ✔
 ├── CharisSIL-4.110
-├── Dauphine
+├── Dauphine ✔
 ├── dejavu-fonts-ttf-2.34
 ├── fantasque-sans-mono
 ├── Fira
 ├── Free-Edit
 ├── FuturaRenner-master
-├── GapSans
+├── GapSans ✔
 ├── Inconsolata.otf
-├── Inknut-Antiqua
-├── interval
+├── Inknut-Antiqua ✔
+├── interval ✔
 ├── junicode
-├── karmilla
+├── karmilla ✔
 ├── liberation-fonts-ttf-1.07.4
 ├── libre-baskerville
 ├── LinLibertineTTF_5.3.0_2012_07_02
-├── list.txt
-├── LuxiMonoTtf
+├── LuxiMonoTtf ✔
 ├── MetaBlum
-├── Old-Standard-TT
+├── Old-Standard-TT ✔
 ├── open-sans
 ├── osp.foundry.crickx
 ├── OSP_polsku
@@ -43,10 +42,10 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── SaniTrixie
 ├── Terminal_Grotesque
 ├── Terminus.ttf
-├── ultra
+├── ultra ✔
 ├── umefont_463
-├── vollkorn-3-005
+├── vollkorn-3-005 ✔
 ├── vremena
 ├── Work-Sans
-└── youngserif
+└── youngserif ✔
 ```
