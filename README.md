@@ -2,7 +2,7 @@
 A selected list of free, libre an open source fonts for[ http://typotheque.instertices.io](http://typotheque.instertices.io).
 
 ```
-├── aileron ✔ [http://dotcolon.net/font/aileron/](http://dotcolon.net/font/aileron/)
+├── aileron ✔ 
 ├── Archivo ✔
 ├── Autopia-TTF-v1.1 ✔
 ├── Avara ✔
