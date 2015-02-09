@@ -1,5 +1,6 @@
 # FontList
-A selected list of free, libre an open source fonts
+A selected list of free, libre an open source fonts.
+
 See [http://typotheque.instertices.io](http://typotheque.instertices.io).
 
 ```
