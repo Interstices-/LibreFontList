@@ -10,7 +10,7 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── bitstream-vera-1.10 ✔
 ├── bizmeud
 ├── BreeSerif
-├── Breite-master
+├── Breite-master ✔
 ├── cabin font v1.5
 ├── Candal
 ├── CareerFont ✔
@@ -40,10 +40,10 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── Police
 ├── QuickSand
 ├── SaniTrixie
-├── Terminal_Grotesque
+├── Terminal_Grotesque ✔
 ├── Terminus.ttf
 ├── ultra ✔
-├── umefont_463
+├── umefont_463 ✔
 ├── vollkorn-3-005 ✔
 ├── vremena
 ├── Work-Sans
