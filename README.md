@@ -2,6 +2,7 @@
 A selected list of free, libre an open source fonts for[ http://typotheque.instertices.io](http://typotheque.instertices.io).
 
 ```
+
 ├── aileron ✔ 
 ├── Archivo ✔
 ├── Autopia-TTF-v1.1 ✔
@@ -48,4 +49,18 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── vremena
 ├── Work-Sans
 └── youngserif ✔
+```
+Suggestions:
+```
+├── Fontlab-Font-master
+├── osp.foundry.crickx
+├── OSP-foundry_DIN
+├── osp.foundry.le-patin-helvete-HEAD-bb8bedb
+├── osp.foundry.sansguilt
+├── OSP_Libertinage
+├── OSP_Logisoso
+├── OSP_NotCourierSans
+├── OSP_W-Droge
+├── Reglo_1.0
+└── UniversElse
 ```
