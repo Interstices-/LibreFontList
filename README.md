@@ -52,6 +52,7 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ```
 Suggestions:
 ```
+├── Baskervald
 ├── Fontlab-Font-master
 ├── osp.foundry.crickx
 ├── OSP-foundry_DIN
