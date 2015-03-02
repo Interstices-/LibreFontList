@@ -34,7 +34,7 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── LuxiMonoTtf ✔
 ├── MetaBlum
 ├── Old-Standard-TT ✔
-├── open-sans
+├── open-sans ✔
 ├── osp.foundry.crickx
 ├── OSP_polsku
 ├── Playfair-Display
