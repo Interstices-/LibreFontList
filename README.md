@@ -37,7 +37,7 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── open-sans ✔
 ├── osp.foundry.crickx
 ├── OSP_polsku
-├── Panamera
+├── Panamera ✔
 ├── Playfair-Display
 ├── Police
 ├── QuickSand
