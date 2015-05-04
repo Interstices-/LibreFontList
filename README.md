@@ -7,21 +7,21 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── Archivo ✔
 ├── Autopia-TTF-v1.1 ✔
 ├── Avara ✔
-├── Averia
+├── Averia ✔
 ├── bitstream-vera-1.10 ✔
-├── bizmeud
-├── BreeSerif
+├── bizmeud ✔
+├── BreeSerif ✔
 ├── Breite-master ✔
 ├── cabin font v1.5
-├── Candal
+├── Candal ✔
 ├── CareerFont ✔
-├── CharisSIL-4.110
+├── CharisSIL-4.110 ✔
 ├── Dauphine ✔
 ├── dejavu-fonts-ttf-2.34
 ├── fantasque-sans-mono
 ├── Fira
 ├── Free-Edit
-├── FuturaRenner-master
+├── FuturaRenner-master ✔
 ├── GapSans ✔
 ├── Inconsolata.otf
 ├── Inknut-Antiqua ✔
@@ -47,7 +47,7 @@ A selected list of free, libre an open source fonts for[ http://typotheque.inste
 ├── ultra ✔
 ├── umefont_463 ✔
 ├── vollkorn-3-005 ✔
-├── vremena
+├── vremena ✔
 ├── Work-Sans
 └── youngserif ✔
 ```
